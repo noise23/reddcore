@@ -29,7 +29,6 @@ exports.livenet = {
     'node4.clickcoin.click'
   ],
   defaultClientPort: 36353
-  lastPoWBlock: 0
 };
 
 exports.mainnet = exports.livenet;
