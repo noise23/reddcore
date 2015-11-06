@@ -4,18 +4,18 @@ Reddcore
 [![Build Status](https://travis-ci.org/bitpay/bitcore.svg?branch=master)](https://travis-ci.org/bitpay/bitcore)
 [![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore.svg)](https://coveralls.io/r/bitpay/bitcore)
 
-A pure, powerful core for your Reddcoin project.
+A pure, powerful core for your ClickCoin project.
 
-Reddcore is a complete, native interface to the Reddcoin network, and provides the core functionality needed to develop
-apps for Reddcoin.
+Reddcore is a complete, native interface to the ClickCoin network, and provides the core functionality needed to develop
+apps for ClickCoin.
 
 #Principles
 
-Reddcoin is a powerful new peer-to-peer platform for the next generation of financial and social technology.
-The decentralized nature of the Reddcoin network allows for highly resilient Reddcoin infrastructure, and the developer
-community needs reliable, open-source tools to implement Reddcoin apps and services.
+ClickCoin is a powerful new peer-to-peer platform for the next generation of financial and social technology.
+The decentralized nature of the ClickCoin network allows for highly resilient ClickCoin infrastructure, and the developer
+community needs reliable, open-source tools to implement ClickCoin apps and services.
 
-**Reddcore unchains developers from fallible, centralized APIs, and provides the tools to interact with the real Reddcoin network.**
+**Reddcore unchains developers from fallible, centralized APIs, and provides the tools to interact with the real ClickCoin network.**
 
 #Get Started
 
@@ -25,7 +25,7 @@ Reddcore runs on [node](http://nodejs.org/), and can be installed via [npm](http
 npm install reddcore
 ```
 
-It is a collection of objects useful to Reddcoin applications; class-like idioms are enabled via[Soop](https://github.com/bitpay/soop).
+It is a collection of objects useful to ClickCoin applications; class-like idioms are enabled via[Soop](https://github.com/bitpay/soop).
 In most cases, a developer will require the object's class directly. For instance:
 
 ```javascript
@@ -52,8 +52,7 @@ Javascript files available at [/examples](/examples) folder.
 
 Please use at your own risk.
 
-Reddcore is still under heavy development and not quite ready for "drop-in" production use. If you find a security issue,
-please email ren@reddcoin.com
+Reddcore is still under heavy development and not quite ready for "drop-in" production use.
 
 #Contributing
 

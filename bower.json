@@ -2,18 +2,17 @@
   "name": "reddcore",
   "main": "browser/bundle.js",
   "version": "0.1.36",
-  "homepage": "https://github.com/reddcoin-project/reddcore",
+  "homepage": "https://github.com/noise23/reddcore",
   "authors": [
     "Larry Ren (<ren@reddcoin.com>)"
   ],
-  "description": "Reddcoin Core Library in Javascript",
+  "description": "ClickCoin Core Library in Javascript",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "reddcoin",
-    "reddcore",
-    "rdd",
+    "clickcoin",
+    "click",
     "bitcoin",
     "bitcore",
     "btc",

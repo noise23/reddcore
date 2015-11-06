@@ -1,6 +1,6 @@
 {
   "name": "reddcore",
-  "description": "Reddcoin Core Library in Javascript",
+  "description": "ClickCoin Core Library in Javascript",
   "version": "0.1.40",
   "author": {
     "name": "Larry Ren",
@@ -49,9 +49,7 @@
     }
   ],
   "keywords": [
-    "reddcoin",
-    "reddcore",
-    "rdd",
+    "clickcoin",
     "bitcoin",
     "btc",
     "satoshi",
@@ -62,7 +60,7 @@
   "main": "bitcore.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reddcoin-project/reddcore.git"
+    "url": "https://github.com/noise23/reddcore.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
@@ -121,9 +119,9 @@
   "readmeFilename": "README.md",
   "gypfile": true,
   "bugs": {
-    "url": "https://github.com/reddcoin-project/reddcore/issues"
+    "url": "https://github.com/noise23/reddcore/issues"
   },
-  "homepage": "https://github.com/reddcoin-project/reddcore",
+  "homepage": "https://github.com/noise23/reddcore",
   "_id": "reddcore@0.1.39",
   "devDependencies": {
     "browserify": "=3.40.0",
